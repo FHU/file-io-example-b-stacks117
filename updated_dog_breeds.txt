@@ -2,7 +2,4 @@ Pug
 Beagle
 German Shepherd
 Boxer
-Golden Retriever
-Spaniel
-Terrier
-abby is the best doggo ever
+
