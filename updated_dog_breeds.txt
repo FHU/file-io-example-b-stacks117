@@ -2,4 +2,11 @@ Pug
 Beagle
 German Shepherd
 Boxer
+Pitbull
+Mastiff
+Basset Hound
 
+10Sheperd
+Spaniel
+
+Golden Retriever
